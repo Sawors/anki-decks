@@ -1,0 +1,149 @@
+#separator:tab
+#html:true
+Qu'est-ce que le parasitisme?	C'est une interaction biologique entre deux organismes, où un des organismes (le parasite) vit sur l'autre (l'hôte) à son détriment.
+Quelle est la différence entre les parasites hétéroxènes et ceux monoxènes?	Les parasites hétéroxènes ont des cycles de vie qui s'effectuent entre plusieurs hôtes différents, alors que les parasites monoxènes ont des cycles de vie qui se déroulent entièrement sur le même hôte.
+Quels sont les mécanismes de survie des parasites ? 	Les mécanismes de survie des parasites incluent la variation antigénique, la nullification d'anticorps, la résistance à la lyse et l'arrêt de la synthèse de nutriments déjà présents chez l'hôte.
+Quelles sont les différentes stratégies des parasites?	Les parasites peuvent évoluer et optimiser leur génome, résister à la lyse, nullifier les anticorps et arrêter la synthèse des nutriments déjà présents. 
+Quelle est la forme dormante des parasites?	Les parasites peuvent entrer dans une forme dormante sous forme de kyste, qui peuvent rester indétectés à l'intérieur de leur hôte pour de nombreuses années.
+Qu'est-ce que la bithérapie ?	La bithérapie consiste à combiner un médicament à demi-vie courte avec un autre à demi-vie longue pour traiter des maladies infectieuses.
+Comment le Toxoplasma gondii est-il transmis?	Le Toxoplasma gondii est transmis par ingestion d'oocytes. Il infecte tous les animaux à sang chaud, mais seul le chat est sa cible prévue, car il compte sur le fait qu'il se fera manger par un chat. 
+Qu'est-ce que la variation antigénique?	C'est le processus par lequel les parasites modifient leur antigène de surface (VSG) par mutation et recombinaison afin de résister au système immunitaire de l'hôte et de prévenir une protection croisée. 
+Quels hôtes peut infecter le Toxoplasma gondii ?	Le Toxoplasma gondii infecte tous les animaux à sang chaud, mais son objectif principal est le chat.
+Quelle est la différence entre les parasites spécialistes et généralistes?	Les parasites spécialistes ont une seule cible, alors que les parasites généralistes infectent un groupe plus large de cibles. 
+Comment le Plasmodium cause-t-il des effets néfastes ?	Le Plasmodium fixe ses sporozoites sur les globules rouges, les rendant difformes et augmentant la rigidité des globules, ce qui entraîne une élimination par la rate. Il a aussi une protéine qui lui permet de fixer les globules rouges à des surfaces, ce qui peut causer des occlusions des microvasculatures.
+Quel rôle joue la variation antigénique chez les parasites? 	La variation antigénique permet aux parasites de résister au système immunitaire en optimisant leur génome et en variabilité antigénique.
+Quelle est la différence entre un parasite spécialiste et un parasite généraliste?	Un parasite spécialiste n'infecte qu'une seule cible, tandis qu'un parasite généraliste infecte un groupe de cibles.
+Quel est le danger du Plasmodium pour l'humain? 	Le Plasmodium peut provoquer une anémie chez l'humain en se fixant sur les globules rouges. Sa protéine PfEMP1 peut également causer des occlusions des micro-vasculatures. Les cas immunosupprimés sont à risque de voir leurs kystes se réveiller et devenir pathogènes.
+Quels sont les moyens utilisés pour lutter contre les parasites (à échelle humaine) ?	Les moyens utilisés pour lutter contre les parasites sont des mesures hygiéniques, l'élimination des vecteurs, et des chimiothérapies avec des antiparasitaires.
+Quelle est l'importance des bithérapies dans la lutte contre les parasites?	Les bithérapies combinent un médicament à demi-vie courte avec un à demi-vie longue, ce qui rend les traitements plus efficaces et réduit l'apparition de résistance aux médicaments.
+Qu'est-ce que les interactions avec les micro-organismes? 	Les interactions avec les micro-organismes peuvent inclure la protection contre les pathogènes, la production de certaines vitamines et la digestion de la nourriture, et l'utilisation en biotechnologies.
+Qu'est-ce que la sérologie? 	La sérologie est une méthode de classification qui détermine si un antigène ou un ADN présent dans un micro-organisme est présent dans un échantillon. 
+Quelle est la structure des procaryotes? 	Les procaryotes sont composés d'ADN se trouvant dans le cytoplasme et sont simples.
+Qu'est-ce que l'endosymbiose? 	L'endosymbiose est le processus par lequel une cellule procaryote absorbe et incorpore une bactérie indépendante à l'intérieur de son cytoplasme, permettant ainsi la formation d'une cellule complète. 
+Quels sont les exemples de micro-organismes? 	Les exemples de micro-organismes incluent les virus, les archées, les bactéries, les mycètes, les protistes et les algues. 
+Quelle est la structure des eucaryotes?	Les eucaryotes ont un noyau et leur ADN est entouré d'organites, qui sont entourés de membranes.
+Quelle est la différence entre une épidémie et une pandémie? 	Une épidémie est une augmentation des cas d'une maladie dans une région donnée, tandis qu'une pandémie implique une distribution large et généralisée dans plusieurs continents. 
+Qu'est-ce que l'endosymbiose?	L'endosymbiose signifie que des archées absorbent des mitochondries et des choloroplastes pour former des bactéries complètes. Les mitochondries sont de descendance bactérienne et les chloroplastes sont de descendance cyanobactérienne.
+Qu'est-ce que la stérilisation? 	La stérilisation est le processus d'élimination complète des micro-organismes d'une surface par l'utilisation de la chaleur, de la vapeur, de l'irradiation ou de produits chimiques. 
+Qu'est-ce que l'épidémiologie?	L'épidémiologie est une étude pour déterminer les caractéristiques d'une épidémie, telles que la fréquence, la prévalence, l'incidence et la propagation. 
+Que sont les porteurs sains? 	Les porteurs sains sont des personnes qui transportent et qui peuvent être infectées par un micro-organisme, bien qu'elles ne présentent aucun symptôme de la maladie. 
+Quels sont les postulats de Koch? 	Les postulats de Koch comprennent les règles théoriques que tous les pathogènes doivent suivre, et comprennent : l'organisme pathogène doit être présent chez tous les patients atteints ; le pathogène doit être isolé et cultivé ; le pathogène cultivé doit pouvoir infecter un nouvel hôte ; et l'organisme réinoculé doit pouvoir être isolé et prouvé qu'il s'agit du même que de base.
+Quel est le but des vaccins? 	Le but des vaccins est de réduire la virulence des pathogènes et d'inoculer la personne avec un pouvoir protecteur, en utilisant le système immunitaire de l'hôte. 
+Qu'est-ce que la classification microbienne?	Les méthodes de classification microbienne incluent l'observation, la coloration, le sérologie, l'esterase et les métabolites spécifiques. 
+Quels sont les domaines et les déploiements de l'épidémiologie? 	Les domaines de l'épidémiologie comprennent la transmission, la prévalence et l'incidence. Les déploiements sont définis comme une épidémie, une pandémie et une endémie.
+Qu'est-ce que la pasteurisation? 	La pasteurisation est un processus de traitement thermique des aliments qui chauffe le produit à une température spécifique (68°C à 88°C) pendant une courte période de temps et qui le refroidit ensuite rapidement. 
+Quelles méthodes peuvent être utilisées pour réduire la contagiosité d'une maladie? 	Des méthodes telles que l'isolement des réservoirs, l'utilisation d'hygiène appropriée des mains, de la stérilisation, de l'asepsie et de l'antisepsie, et la vaccination peuvent être utilisées pour réduire la contagiosité.
+Quels sont les trois approches de la vaccination? 	Les trois approches de vaccination sont l'injection d'un micro-organisme entier, l'injection d'antigènes, et le matériel génétique codant pour les antigènes.
+Quelle est la chaîne d'infection? 	La chaîne d'infection est un modèle qui identifie les facteurs associés à la transmission et à la propagation d'une maladie, notamment un réservoir, une source, une méthode de transmission, un lieu, un hôte et une susceptible.
+Qu'est-ce que l'épidémiologie étudie?	L'épidémiologie étudie comment la maladie se propage d'un milieu à un autre et comment identifier et réduire le risque de transmission. 
+Quelle est la différence entre la prévalence et l'incidence?	La prévalence mesure le nombre total de cas pendant une période donnée, alors que l'incidence mesure le nombre de nouveaux cas. 
+Qu'est-ce qu'une pandémie?	Une pandémie est une épidémie qui s'étend à travers une large zone géographique et s'intensifie ou diminue en fonction des cycles épidémiques. 
+Qu'est-ce qu'une endémie?	Une endémie est une maladie qui est présente dans un groupe ou une communauté à un niveau constant et qui est endémique à un lieu spécifique.
+Quelle est la forme d'une bactérie à coque ? 	Une bactérie à coque a une forme sphérique. 
+Quelle est la forme typique des bactéries? 	La forme typique des bactéries est soit une coque, soit un bacille. 
+Quelle est la nomenclature générique d'une bactérie ? 	La nomenclature générique d'une bactérie est Génre espèce, par exemple Streptococcus pyogene. 
+Quelle est la structure principale des bactéries? 	La structure principale des bactéries est composée du cytoplasme, des ribosomes, d'une paroi cellulaire, d'une membrane cellulaire et de nucléoïdes. 
+Quelle est la fonction des porines ?	Les porines sont des protéines qui forment des ports minuscules dans la membrane externe, permettant aux petites molécules d’entrer et de sortir de la cellule.
+Quelle est la différence entre les bactéries monodermes et didermes ?	les bactéries monodermes ont une seule membrane et sont Gram+, tandis que les bactéries didermes ont une membrane externe et sont Gram-. 
+Comment les bactéries sont-elles colorées? 	Les bactéries sont colorées en utilisant un colorant qui pénètre dans le cytoplasme des bactéries monodermes et ne pénètre pas dans le cytoplasme des bactéries didermes. 
+Quel est l’objectif de la métagénomique ?	La métagénomique est une technique d'analyse qui séquence l'ADN dans un échantillon afin de déterminer les espèces présentes.
+Quelle est l'influence des bactéries sur la santé ? 	Les bactéries peuvent avoir un effet protecteur sur la santé en produisant des vitamines, mais un déséquilibre du microbiome peut contribuer à l'obésité, au diabète et à d'autres maladies chroniques. 
+Comment les bactéries se multiplient-elle?	Les bactéries se multiplient via une méthode de fission/mitose.
+Qu'est-ce que le microbiote ?	Le microbiote est l'ensemble des microorganismes qui vivent dans un environnement donné, en l'occurrence le tube digestif.
+Quels sont les cibles communes des antibiotiques ? 	Les cibles courantes des antibiotiques comprennent la synthèse de la paroi, la transcription et la traduction génétique, la réparation de l'ADN et le métabolisme. 
+Quels sont les effets des antibiotiques sur une bactérie ?	Les antibiotiques ciblent et bloquent la synthèse des parois, la transcription et la traduction de l'ARN et l'emprisonnement et le métabolisme de la bactérie.
+Comment un organisme peut-il acquérir une résistance à un antibiotique ? 	Une résistance bactérienne à un antibiotique peut être acquise par mutation ou par transfert trans-bactérien de fragments d'ADN. 
+Quels sont les mécanismes de résistance aux antibiotiques ?	Les mécanismes de résistance aux antibiotiques peuvent inclure des modifications de la cible, l'inactivation enzymatique, la protection membranaire et la résistance phénotypique.
+Comment se fait le transfert d'ADN entre les bactéries? 	Le transfert d'ADN entre les bactéries se fait par assimilation (par recombinaison de l'ADN présent dans le milieu), par plasmide (par conjugaison entre membres d'une même génération) et par phage (injection de l'ADN viral par le phage).
+Qu'est-ce que la résistance intrinsèque?	La résistance intrinsèque est une forme de résistance à un agent pathogène qui est présente à un niveau génétique, souvent à l'échelle de l'espèce. 
+Comment la résistance acquise se produit-elle?	La résistance acquise se produit par mutation ou par transfert trans-bactérien de fragments d'ADN. 
+Quel est le rôle des fragments d'ADN dans la résistance acquise?	Les fragments d'ADN sont responsables de la transmission de résistance acquise de l'ADN d'une bactérie à une autre. 
+Comment peut-on évaluer le temps d'apparition d'une résistance? 	On peut évaluer le temps d'apparition d'une résistance en calculant le temps nécessaire à la mise en place d'une mutation ou d'un transfert trans-bactérien.
+Qu'est-ce que l'hérédité intrinsèque? 	L'hérédité intrinsèque est la manière dont les caractéristiques génétiques d'une espèce sont transmises d'une génération à l'autre.
+Quelle est l'importance des mutations et des transferts trans-bactériens?	Les mutations et les transferts trans-bactériens sont responsables de la transmission de résistance acquise de l'ADN d'une bactérie à une autre. Ces mécanismes jouent un rôle important dans la propagation de la résistance aux agents pathogènes.
+Quelles sont les conséquences possibles de la résistance intrinsèque? 	Les conséquences possibles de la résistance intrinsèque peuvent inclure l'augmentation des risques d'infections résistantes aux médicaments et la recombinaison de gènes pour créer des souches multirésistantes.
+Quelle est la stratégie de modification de l'antibiotique?	La stratégie de modification de l'antibiotique consiste à modifier le lieu de fixation afin de rendre l'antibiotique incapable de se fixer au ribosome.
+Quelle est la stratégie d'inactivation?	La stratégie d'inactivation consiste à produire une enzyme qui dégrade l'antibiotique en coupant une liaison.
+Quelle est la stratégie de protection membranaire?	La stratégie de protection membranaire consiste à modifier les porines chez les Gram- pour empêcher l'antibiotique d'entrer et à utiliser des pompes pour le rejeter.
+Quelle est la modification des porines chez les Gram-?	La modification des porines chez les Gram- implique un changement dans leurs structures et leurs fonctions afin d'empêcher l'entrée des antibiotiques et le rejet par les pompes.
+Qu'est-ce que la résistance phénotypique?	La résistance phénotypique est une technique qui n'implique pas de mutation et qui consiste à empêcher l'antibiotique d'atteindre la bactérie en utilisant un biofilm qui englobe la bactérie.
+Qu'est-ce que CRISPR?	CRISPR est un acronyme pour Clustered Regularly Interspaced Short Palindromic Repeats: une base de données de sites de coupure.
+Quelle est la fonction de l'enzyme Cas9?	L'enzyme Cas9 est une nucléase qui découpe l'ADN.
+Quelle est la fonction de Cas9?	Cas9 est une enzyme nucléase qui découpe l'ADN en se basant sur les sites fournis par le CRISPR.
+À quoi sert l'ARN identité?	L'ARN identité est une sorte de bibliothèque qui aident Cas9 à trouver où découper.
+Comment Cas 9 est-il utilisé par les bactéries? 	Les bactéries utilisent CRISPR comme une base de données qui fournit des sites de découpage, et Cas9 découpe l'ADN sur ces sites précis.
+Quelle est l'utilisation médicale de CRISPR et de Cas9?	En biomédecine, CRISPR et Cas9 peuvent être utilisés pour modifier l'ADN d'une cellule en remplaçant une séquence existante par une autre séquence d'ADN modifiée.
+Qu'est-ce qu'un virus ?	Un virus est un être vivant microscopique, forcément parasitaire, constitué d’acides nucléiques (ADN ou ARN), protégés par une enveloppe de protéines appelée capsides. 
+Quelle est la structure d'un virus non-enveloppé?	La structure d'un virus non-enveloppé consiste en une coque protéique (capside) qui contient un génome composé d'acides nucléiques.
+Quelles sont les cibles des virus ?	Les cibles pour les virus sont principalement les bactéries, les archées, les mycètes, les parasites, les animaux et les plantes.
+Quelle est la structure d'un virus enveloppé?	La structure d'un virus enveloppé consiste en une enveloppe recouverte de glycoprotéines (spicules) qui entoure une coque protéique (capside) contenant un génome composé d'acides nucléiques.
+Qu'est-ce que la pathogenèse virale ?	La pathogenèse virale est le processus par lequel un virus induit une maladie en provoquant des effets sur l’hôte et en activant sa réponse immunitaire.
+Quels sont les prérequis pour une infection virale?	Les prérequis pour une infection virale sont une masse critique, une cellule permissive et une capacité de multiplication malgré l'action du système immunitaire.
+Quels sont les effets pathogéniques des virus?	Les effets pathogéniques des virus peuvent comprendre des destructions de tissu, des fièvres, des douleurs, des inflammations et des autodestructions de cellules.
+Quelle est la capacité évolutive des virus?	Les virus ont une capacité évolutive puisque leurs polymérases n'ont pas de sécurité et les mutations peuvent bénéficier de la sélection naturelle.
+Quelle est la classification des virus selon le type d'ADN / ARN ?	La classification Baltimore regroupe sept classes différentes de virus en fonction du type d'ADN ou ARN et de leur étapes transcriptionnelles.
+Quelles sont les voies d'entrée pour les virus?	Les virus peuvent pénétrer par fusion avec la membrane de l'hôte, endocytose ou injection.
+Quels sont les processus évolutifs chez les virus ?	Les polymérases virales manquent généralement de sécurité et donc les erreurs sont fréquentes, ce qui mène à un fort taux de variabilité et de mutation profitable grâce à la sélection. 
+Quels sont les composants du cycle viral?	Le cycle viral comprend l'attachement, la pénétration, la décapsidation, la biosynthèse, la maturation et la libération.
+Quels sont les inhibiteurs du SARS-CoV-2 ?	Les inhibiteurs du SAR-CoV-2 incluent les inhibiteurs de fusion, de protéase et de polymérase.
+Quels inhibiteurs antiviraux sont utilisés contre le VIH?	Les inhibiteurs antiviraux utilisé contre le VIH comprennent ceux du CCR5/CXR4, ceux de protéase, ceux de fusion, ceux de transcriptase et ceux d'intégrase.
+Comment les virus peuvent-ils s'adapter à leur hôte? 	Les virus ont des génomes relativement simples avec peu de gènes ce qui leur permet de s'adapter à l'hôte et d'optimiser leur génome.
+Quelles sont les protéines structurelles chez les virus? 	Les protéines structurelles comprennent le capside et l'enveloppe.
+Qu'est-ce qu'un mycète ?	Un mycète est un eucaryote qui se caractérise par une paroi exclusivement composée de chitine et de glycane, une membrane plasmique, et une mitochondrie.
+Quelle est la différence entre le peptidoglycane et le glycane ?	Le peptidoglycane est une molécule constituée de sucres et de peptides qui est présente dans la paroi cellulaire des bactéries, tandis que le glycane est une molécule exclusivement constituée de sucre qui est présente dans la paroi cellulaire des mycètes.
+Quels sont les types de mycètes ?	Il existe trois types de mycètes : les filamenteux, les levures et les dimorphes. 
+Quel est le mode de reproduction des filamenteux ?	Les filamenteux se reproduisent par fragmentation, par spores asexuées et par spores sexuées.
+Quel est l'utilité pour l'Humain des champignons ?	Les champignons sont très utiles pour l'humain, notamment dans la production d'aliments, d'antibiotiques, d'immunosuppresseurs et de vaccins.
+Quels sont les modes de vie des mycètes ?	Les mycètes sont des chimio-hétérotrophes qui peuvent se développer en tant que saprophytes, parasites ou mutualistes. 
+Quelles sont les risques pour l'Humain ? 	Les champignons peuvent être toxiques pour les humains, et peuvent entraîner des intoxications ou des mycoses pouvant être graves dans certains cas. 
+Qu'est-ce que l'ergostérol ?	L'ergostérol est un précurseur spécialisé qui est utilisé pour former la paroi cellulaire des mycètes. C'est un constituant du cholestérol chez l'humain.
+Quelle est la différence entre la plasmogamie et la méiose ?	La plasmogamie est une étape de la reproduction sexuée durant laquelle le noyau d'une cellule pénètre dans le cytoplasme d'une autre cellule et fusionne avec son propre noyau, tandis que le méiose est l'étape de la reproduction sexuée qui suit la plasmogamie et durant laquelle le nouveau noyau diploïde se scinde en quatre noyaux haploïdes.
+Quels sont les exemples les plus connus de mycètes pathogènes ? 	Les exemples les plus connus de mycètes pathogènes sont l'ergot du seigle, le muguet, causé par Candida albicans, et Aspergillus.
+Qu'est-ce qui peut provoquer le muguet ?	Le muguet est causé par le champignon Candida Albicans et peut être provoqué par une déficience immunitaire, temporaire ou permanente, due à des traitements médicaux ou physiologiques. 
+Quelle est la source de résistance aux fongicides ?	La source de résistance aux fongicides est principalement le traitement excessif de l'industrie agro-alimentaire. 
+Quels sont les traitements utilisés contres les mycètes ?	Les traitements contre les mycètes visent principalement les membranes plasmiques, la paroi, la mitochondrie et la synthèse de l'ADN. 
+Quel est le cycle bioénergétique?	Le cycle bioénergétique est le cycle des échanges d'énergie entre le carbone organique et le carbone minéral.
+Qu'est-ce que le métabolisme? 	Le métabolisme est le processus biochimique par lequel le corps convertit l'énergie et les nutriments en composés nécessaires à l'utilisation, au fonctionnement et à la survie.
+Qu'est-ce que le catabolisme?	Le catabolisme est un processus de dégradation des molécules complexes en molécules plus simples qui libère de l'énergie.
+Que font les NADH et FADH?	Les NADH et FADH sont des intermédiaires polaires qui sont utilisés pour transporter temporairement des charges d'électrons afin de produire l'ATP ou provoquer une réaction de réduction-oxydation.
+Qu'est-ce que le métabolisme basal?	Le métabolisme basal est l'énergie minimale dont un organisme a besoin pour survivre.
+Qu'est-ce que le métabolisme d'activité?	Le métabolisme d'activité est l'énergie nécessaire pour réaliser une activité.
+Qu'est-ce que l'anabolisme?	L’anabolisme est le processus par lequel les composés simples sont assemblés en plus grands et plus complexes. Les glucides, les lipides et les protéines se combinent en macromolécules cellulaires à l'aide de l'énergie de NADPH, donneur d'électrons.
+Qu'est-ce que l'ATP?	L'ATP (adénosine triphosphate) est une molécule de triphosphate qui sert de vecteur d'énergie pour les cellules. Il est produit par la glycolyse, le cycle de l'acide citrique et la chaîne respiratoire et peut être utilisé pour fournir de l'énergie pour le mouvement, le maintien des gradients, l’anabolisme et comme pseudo-hormone.
+Qu'est-ce que le NADH et le FADH?	NADH (nicotinamide adénine dinucléotide) et FADH (flavine adénine dinucléotide) sont des coenzymes impliquées dans le transfert d'énergie à travers les réactions redox. Ils agissent comme porteurs d'électrons pendant le catabolisme et sont utilisés pour phosphoryler l'ADP et le transformer en ATP.
+Qu'est-ce qu'une réaction exergonique?	Une réaction exergonique est une réaction qui libère de l'énergie sous forme d'é
+Qu'est-ce que l'ADN ? 	L'ADN, ou acide désoxyribonucléique, est une molécule qui est le porteur de l'information génétique contenue dans les cellules vivantes. 
+Quelle est la composition de l'ADN ? 	L'ADN est composé de protéines structurelles et d'acides nucléiques. 
+ Qu'est-ce qu'une pentose ?	 Une pentose est une molécule organique qui possède cinq groupes hydroxyle sur chaque atome. Elle est le composant principale des nucléotides.
+Quelles sont les pentoses de l'ADN et de l'ARN ? 	L'ADN est basé sur des pentoses sans oxygène, tandis que l'ARN est basé sur des pentoses avec oxygène. 
+ Qu'est-ce qu'une purine ?	 Les purines sont des grandes molécules qui ont deux cycles et qui composent l'ADN. Elles sont représentées par les lettres A et G.
+Quelle est la différence entre les purines et les pyrimidines ? 	Les purines sont de grandes molécules contenant deux cycles, tandis que les pyrimidines sont des molécules plus petites contenant un cycle. 
+ Qu'est-ce qu'une pyrimidine ?	 Les pyrimidines sont des molécules plus petites qui ont un cycle et qui composent l'ADN. Elles sont représentées par les lettres T, C et U.
+ Qu'est-ce qu'un lien phosphodiester&nbsp;?	 Un lien phosphodiester est une liaison entre un atome d'oxygène et un atome de phosphore qui relie deux nucléotides entre eux.
+ Quels sont les groupements qui composent un nucléotide ?	 Un nucléotide est composé d'un groupement phosphate, d'une pentose et d'une base.
+Quelle est la force permettant l'appariement des bases entre elles ? 	La force qui permet l'appariement des bases entre elles est le pont hydrogène. 
+ Quelle est la force qui maintient ensemble les nucléotides de l'ADN ?	 La force qui maintient ensemble les nucléotides est celle des ponts de H (hydrogène) qui appariennent les bases entre elles.
+Quel est le sens de l'ADN ? 	Le sens de l'ADN est en 5' à 3', c'est-à-dire que le groupe phosphate se trouve à 5' et la base à 3'.
+(Génome) Qu'est-ce que l'évolution réductrice ?	L'évolution réductrice est un processus par lequel un génome viral est optimisé en supprimant des gènes non utilisés.
+(Classification) Qu'est-ce qui détermine la classification des virus?	Les virus sont classés selon le type d'acide nucléique, le brin (double ou simple) et les étapes de la transcription.
+(Capacité évolutive) Qu'est-ce qui caractérise la capacité évolutive des virus? 	La capacité évolutive des virus est due à leurs polymérases qui ne disposent pas de sécurité et à la sélection naturelle des mutations avantageuses.
+(Cycle viral) Quelle est la voie d'entrée la plus courante des virus? 	La fusion, l'endocytose et l'injection (par des phages) sont les voies d'entrée les plus courantes des virus.
+(Multiplication) Quelle est la dernière étape de la multiplication ?	La dernière étape de la multiplication est la libération, où le virus nouvellement formé quitte la cellule par exocytose, bourgeonnement ou lyse.
+(Cycle viral) Y a-t-il des moyens d'inhiber la multiplication des virus? 	Oui, les moyens d'inhiber la multiplication des virus sont l'inhibition de la fusion, la protéase, et la polymérase.
+(Exemple SARS-COV2) Quelle est la durée d'un cycle complet du virus SARS-COV2 ?	Il faut environ 10 minutes pour que SARS-COV2 pénètre une cellule et environ 10 heures pour un cycle complet.
+(Exemple VIH) Quelle est la cible principale du VIH ?	Le VIH cible principalement les lymphocytes T CD4.
+(Exemple VIH) Y a-t-il des moyens différents d'inhiber la multiplication du VIH? 	Oui, les moyens d'inhiber la multiplication du VIH sont l'inhibition des récepteurs CCR5 ou CXR4, la protéase, la fusion, la transcriptase et l'intégrase.
+Qu'est-ce qu'une masse critique et quelles en sont les exigences pour causer une infection ? (Infection)	Une masse critique est le nombre minimal d'agents pathogènes susceptibles de déclencher une nouvelle infection et de la maintenir dans un groupe donné. Les exigences pour causer une infection sont une cellule permissive envers le virus, une capacité de multiplication et une masse critique suffisante.
+ Quelle est la forme finale du virus? (Structure des virus)	 La forme finale du virus est le Virion, c'est-à-dire une forme extracellulaire comprenant la capside et le génome. 
+ Quelle est la différence entre une infection par un virus et par une bactérie? (Infection)	 Une infection par un virus est souvent causée par une masse critique plus faible qu'une infection bactérienne et les effets liés à la réponse immunitaire sont généralement désastreux car ils peuvent entrainer l'autodestruction de cellules. 
+Qu'est-ce qu'un eucaryote? (Structure)	Un eucaryote est une cellule contenant un noyau et un cytoplasme ainsi qu'une paroi rigide formée à partir d'ergostérol. 
+Quels sont les types de mycétes? (Types)	Il existe 3 types de mycétes, les filamenteux, les levures et les dimorphes. 
+Quel est le principal constituant de la paroi chez les champignons ? (Paroi) 	La paroi des champignons est principalement composée de chitine et de glycane.
+Quels sont les modes de vie des mycétes? (Modes de vie)	Les mycétes sont des chimio-hétérotrophes et peuvent être saprophytes, parasites ou mutualistes. 
+Qu'est-ce que la plasmogamie ? (Reproduction)	La plasmogamie est une étape de la reproduction sexuée chez les champignons, où un noyau provénant d'une cellule pénètre dans le cytoplasme d'une autre cellule.
+Quelles sont les étapes de création des spores? (Reproduction sexuée)	Les étapes de création des spores sont la plasmogamie, la caryogamie et la méiose. 
+Quels sont les avantages de la culture des mycétes en laboratoire? (Utilité pour l'Humain)	Les mycétes sont facilement cultivables et présentent une croissance rapide, ce qui permet d'étudier les mécanismes de fonctionnement des eucaryotes. Il sont également utiles pour la biotechnologie et la production de protéines. 
+Quelle est la principale maladie causée par le muguet ? (Exemples)	La principale maladie causée par le muguet est la candidose.
+Que visent les traitements contre les champignons? (Traitements)	Les traitements contre les champignons visent des cibles telles que la membrane plasmique, la paroi, la mitochondrie et la synthèse d'ADN. 
+Qu'est-ce qui favorise la résistance aux fongicides ? (Résistances)	La résistance aux fongicides est favorisée principalement par les traitements utilisés en grandes quantités dans l'industrie agroalimentaire, et non par les traitements médicaux pour les humains.
+Quel type de reproduction a lieu chez les levures ? (Reproduction)	Les levures se reproduisent par division à la fois asymétrique (bourgeonnement) et symétrique (scissiparité), ainsi que par des spores sexuées.

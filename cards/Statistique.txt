@@ -1,0 +1,9 @@
+#separator:tab
+#html:true
+Quelle est l'utilité de la recherche clinique? (Utilité de la recherche clinique)	La recherche clinique permet de vérifier la validité d'hypothèses et de tests cliniques, de manière plus fiable et reproductible, afin de produire des connaissances scientifiques universelles.
+Quelle est la structure d'un article de recherche? (Publication)	Un article de recherche est généralement structuré en titre, abstract, corps, et référence bibliographiques. Le corps est composé sommairement d'introduction, méthodes, résultats et discussion/analyse.
+Qu'est-ce que le double aveugle? (Méthode)	Le double aveugle est une méthode d'étude clinique dans laquelle ni les patients ni les cliniciens ne connaissent l'agent actif ou le placebo. Cela empêche les biais expérimentaux et est souvent très pertinent.
+Quel est l'objectif des études prospectives? (Plans d'étude)	Le but des études prospectives est de vérifier des taux d'incidence, des facteurs de risque et des scores prédictifs, en mesurant les facteurs de risque d'un échantillon de patients indépendants et en observant leur évolution dans le temps.
+Quel est l'objectif des études cas-témoin? (Plans d'étude)	Les études cas-témoin visent à identifier des sources d'épidémies et de contamination, en comparant le taux de mortalité de patients ayant reçu ou non un traitement/environnement donné.
+Quel est l'objectif des essais cliniques randomisés? (Plans d'étude)	Les essais cliniques randomisés visent à évaluer l'utilité d'un traitement/environnement donné, à l'aide de l'administration volontaire d'un placebo.
+A quoi sert l'analyse statistique? (Analyse statistique)	L'analyse statistique permet de décrire les données et de créer une synthèse, ainsi que d'établir des inférences basées sur les informations données.
